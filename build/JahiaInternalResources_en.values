@@ -1,0 +1,1537 @@
+Documentation
+Add file
+A file with that name already exists
+Authorizations
+Automatically unzip
+Browse
+One of the files can't be accessed, please don't edit the fields manually.
+Count
+Created by
+Date
+Modified by
+Provider
+State
+Published by
+Add new version
+Enter an archive name...
+Do you really want to remove
+Enter the new name for
+Overwrite
+Do you really want to remove the current selection?
+Do you really want to reset all changes?
+Do you want to proceed with unlock operation anyway?
+Do you really want to unmount {0}?
+{0} could not be accessed :\n{1}
+One or more areas have been enabled, the publication status of the page has changed.
+Area(s) created
+Deselect
+Your file is ready to be downloaded, please click the following link to proceed:
+Everything published
+Your captcha is invalid
+Copy failed:
+Crop failed:
+The file/folder {0} was successfully copied under path {1}. But the file/folder was not removed from the source folder {2} : because {3} has no write access on it.
+Cut failed:
+Deletion failed:
+The url does not exist
+URL mapping {0} to be set on the node {1} already found on {2} (mode: {3}).
+Found {0} conflicting user(s): {1}
+There are some validation errors! The import of this content may fail or be incomplete.
+Missing {0} value(s) for mandatory properties: {1}
+Detected {0} missing module(s)
+Detected {0} missing node type(s) and {1} missing mixin type(s)
+The template set of this project ({0}) is not available
+Detected {0} missing template(s)
+The entered name is already in use
+There are some validation errors! Click on the information icon next to the highlighted fields, correct the input and save again.
+There are some validation errors! Correct the input and save again.
+Please provide a valid date value
+Please enter valid e-mail address
+The field does not match the following regular expression: {0}
+The vanity URL can only contain letters, digits, dots (.), dashes (-) and no consecutive slashes (/)
+Loading URL mapping failed\n\n{0}
+Cannot mount remote server {0}. Cause:\n{1}
+Folder creation failed:
+Content {0} cannot be pasted into {1}
+Paste failed:
+Paste reference failed:
+Properties save failed.
+Properties translation failed
+Property translation failed
+Remote path should be an absolute path to a node on the distant server
+Rename failed
+Resize failed:
+Rotate failed:
+The entered name is invalid.
+Following files are locked by the system (used in published content) and cannot be unlocked:
+Cannot unmount remote server {0}. Cause:\n{1}
+The mount point
+is locked by
+Unzip failed
+Upload of the file failed
+{0} is an invalid name
+The name is too long. The maximum length is {0}
+Unable to open webfolder:
+Zip failed:
+The file {0} already exists.
+File
+File upload exceeding limit of {0} bytes
+Filters
+Height
+Image
+Import file
+Select file to import
+Locked by
+Number of files
+Number of folders
+No deployment was done, as no site was found having this module
+No deployment was done, as no site was found having this templates set
+Total size
+Instant communication with the server has been restored after a network issue, and we recommend reloading the page.
+Invert
+Jahia Solutions Group SA
+&copy; Copyright 2002-2017
+1 day
+1 month
+1 week
+1 year
+2 weeks
+3 months
+6 months
+Content visibility modification
+Content visibility modification
+Content visibility modification
+Remote publication
+Content visibility modification
+Content visibility modification
+Content visibility modification
+Action
+Complete task
+Sites comparison
+Thumbnail generation
+Import
+Script
+Maintenance
+Publication
+Forced re-publication 
+Journal recreation
+Rule
+Start process
+Text extraction
+Abort
+About Digital Experience Manager
+Absolute Area
+Account locked
+Action
+Actions
+Active
+Add
+Add all
+Add comment
+Add content
+Click to add a dependency
+Add new groups to the role
+Add&nbsp;to&nbsp;
+Add new users to the role
+Add view
+Administration
+All
+All properties
+Area
+Area conflicts with node {0}. Rename the area or the node.
+Disable area
+Enable area
+at
+a new content has been created.
+a content has been updated.
+Auto refresh every
+Back to group list
+Back to menu
+Background jobs
+Begin time
+Branch or tag
+You are going to break acl inheritance, and you did not assign any role to users. You may loose access to this content.
+by
+Bypass workflow
+Bypass all workflows
+Cache
+Flush cache for
+Flush all caches
+Flush site caches
+Cache has been flushed
+All caches have been flushed
+Site caches have been flushed
+Cache debug
+Cache on
+Cancel
+Capabilities
+Categories
+Category
+Category manager
+Category picker
+Cause
+Changes saved successfully
+characters
+the name can contain only letters or numbers (: and _ are also allowed) and must start by a letter
+Choose provider
+Choose file
+CSS Class name
+Clear
+Clear lock on node and children
+Clear lock on node
+Clipboard
+Close
+Code
+Code Template
+If empty {0}
+If not empty {0}
+Loop over {0}
+Tokenize and Loop over {0}
+Display property {0}
+Set property {0} in variable
+Add resource {0}
+Column
+Comment
+Comment added
+Comments
+Commit module
+Compare
+Compare authoring and remote sites
+Compare staging vs live version
+Compare with staging version
+Compile and deploy module
+Compiling and deploying module...
+Component Manager
+Do you want to continue?
+Confirm password
+Confirmed
+Content
+Content unpublished
+Content selection
+Content Manager
+Context
+Do you want to continue anyway ?
+Contribute
+Contribute mode settings
+Copy
+Copy to clipboard
+count
+Create content
+New directory
+New remote publication
+New role
+New tag
+Created
+Creation
+Creation time
+at
+Every
+minutes past the hour
+of
+on
+on the
+Crop image
+CSV File
+CSV field separator
+Current page path
+Start workflow
+Cut
+Edit mode
+Date
+Date of preview
+According date of
+day
+Friday
+Monday
+Saturday
+Sunday
+Thursday
+Tuesday
+Wednesday
+days
+Default
+Delete
+Do you really want to delete the current selection?
+Delete all completed
+Do you really want to delete all completed jobs?
+Deleted {0} completed jobs
+Delete (permanently)
+Deleted
+Deletion date
+User
+Dependency
+Update on all sites using this module
+Update on all sites using this template set
+Deploy new portlets
+Description
+Details
+Device
+Device name
+Distribution
+Import
+Download
+Duplicate
+Duplicate Current Set
+Duration
+Edit
+Edit {0} ({1})
+[ locked by {0} ]
+[ locked by you ]
+View {0} ({1})
+Edit repository information
+Edit mode
+Edit page
+Edit reference source
+Content Manager
+Content picker
+Content picker
+E-mail
+empty
+Enable advanced compare mode settings
+Enable advanced preview settings
+End time
+End date
+Analytics
+Categories
+Channels
+Code editor
+Component permissions
+Content
+Content
+Page infos
+Base attributes
+Child nodes
+Properties
+Edit roles
+History
+Information
+Layout
+List ordering
+Live roles
+Metadata
+Options
+Permissions
+Portlet List
+Properties
+Publication
+Resource Bundle
+Permissions
+Users / groups
+Roles
+SEO
+Tags
+Template
+Usages
+Versioning
+Visibility
+Workflow
+Please enter the item name
+Mount node name
+Error
+The request sent by the client was syntactically incorrect or the required parameters were missing. Cause:
+400 - Bad Request
+Access to this page is restricted. Possible causes: page only exists in staging or access is forbidden.
+403 - Forbidden
+The file that you requested could not be found on this server.
+404 - Page not found
+An error has occurred during processing. A mail notification has been sent to the Administrator.
+The server is temporarily unable to service your request due to maintenance downtime or capacity problems.
+503 - Service temporary unavailable
+Click
+here
+to go back.
+Error File Dumper is
+Click here to return to the home page
+The entered mount name is not valid. The value should match the following pattern: [A-Za-z0-9_-]+
+The entered node type name is not valid. The value should match the following pattern: [A-Za-z0-9_]+
+Invalid link
+Violation of license terms is preventing your platform from being initialized properly, please contact your system administrator.
+Your license expires in less than {0} days. Please, contact the Jahia support to renew your license.
+License terms violation
+Your license terms are violated. Please, check the installed license and contact the support.
+We are sorry for the inconvenience. Please check back later.
+This site is currently under maintenance.
+This field is mandatory
+The following nodes could not be deleted:
+The following nodes could not be undeleted:
+An error occurred while processing your request
+Error page
+Errors
+Everywhere
+Example
+Execute remote publication
+Executing...
+Executing since...
+Export
+Choose the export format
+Export full site
+Export JAR file
+Export XML
+Export Zip
+Export Zip with live content
+Get module from sources
+File name
+Document manager
+File picker
+Finish
+First name
+Folder picker
+Decrease font size
+Increase font size
+for
+Generating JAR file...
+JAR file creation failed
+Git
+Go to the Private App Store page
+Go to view file
+Group
+Group ID
+org.jahia.modules
+Select groups
+Groups
+Error: {0}
+Access denied
+{0} already exists
+Bean. 'editconfig'  not found in spring config file
+Can't list the children of a file
+Cannot add to source control: {0}
+Cannot checkout module: {0}
+Cannot compile module: {0}
+Cannot create module: {0}
+Cannot create portlet instance: {0}
+Cannot crop image: {0}
+Cannot flush: {0}
+Cannot generate package for module {0}. Cause: {1}
+Cannot get content history: {0}
+Cannot get edit configuration {0} for path {1}. Cause: {2}
+Cannot get export URL: {0}
+Cannot get node: {0}
+Cannot get source: {0}
+Cannot get URL mappings: {0}
+Cannot get versions: {0}
+Cannot init remote repository: {0}
+Cannot list the children of parent path {0}. Cause: {1}
+Cannot mark conflict as resolved: {0}
+Cannot move node: {0}
+Cannot open user session
+Cannot release version {0} for module {1}. If you don't have the permission to write on the remote repository, you should duplicate the module. Cause: {2}
+Cannot resize image: {0}
+Cannot retrieve root nodes for paths {0}. Cause: {1}
+Cannot rotate image: {0}
+Cannot save URL mappings: {0}
+Cannot synchronize module into sources. If you don't have the permission to write on the remote repository, you should duplicate the module. Cause: {0}
+Cannot translate: {0}
+Cannot unlock node
+Cannot update module: {0}
+Children list is null
+Configuration {0} not found. Cause: {1}
+Connection failed with an error: {0}
+Connection failed with the status {0}
+\ could not be accessed :
+Could not import: {0}
+Could not rename item {0} into {1}
+Could not save node {0}: {1}
+Could not save properties: {0}
+Could not search portlets: {0}
+Could not store query
+Could not store query with null name
+Directory {0} is not writable.
+Error during loading toolbars due to {0}
+file {0} exists
+The following files could not be cut:
+{0} has no write access to {1}
+Invalid path
+Issue when trying to delete original archive {0}
+Unable to create the specified namespace. Either prefix/URI exists already or you are trying to use a prefix/URI value that is not valid/allowed.
+\ is locked by
+Couldn't add a new version, file {0}/{1} not found
+No user folder to store query
+A node already exists with name '{0}'
+Node creation failed
+Node creation failed: {0}
+Please check the log file for more details
+{0} not found for user {1}
+Nothing to commit
+An error occur when trying to save the node '{0}'
+Only root can mount folders
+Parent node is null
+Render exception {0}
+Repository exception on path {0}
+A system error happened
+The following files could not be zipped:
+Unable to get source node with identifier {0}. Cause: {1}
+Unable to locate uploaded file
+Error when clearing all locks on node {0} with user {1}
+Error when trying to load Digital Experience Manager state.
+Height
+Hide
+Highlighting
+History may be delayed.
+Home
+Homepage
+hour
+h
+HTML filtering
+Add an HTML tag that will be removed from the rich text fields. For example: h1 or hr or strong.
+The entered tag name is invalid.
+HTML settings
+Markup Filtering
+Please provide a comma-separated list of HTML tags to remove. For example: h1,hr,strong
+WCAG Compliance
+If enabled, the WCAG Compliance option lets you check if the content entered in the rich text fields meets the standards
+HTTP 401 Unauthorized  - You must log-in to access this resource
+&nbsp;
+Detailed
+ID
+Image picker
+Import
+{0} templates missing
+Your import will be processed by the system as a background job.
+There are {0} jobs to finish before this import will be processed.
+in
+Indent code
+Information
+Inherited
+Inherited from
+Integrity checks
+Interval
+User
+is not an administrator.
+An issue occurred when trying to resolve {0}
+Item
+Items per page
+Items
+A Digital Experience Manager analytics profile is composed of settings needed to track your website and to recover later the corresponding statistics from the Google Analytics server.<br><br>These settings are the following:
+Allow you to identify the Google Analytics settings in use.
+Jahiapedia
+Added
+Canceled
+Executing
+Failed
+Scheduled
+Successful
+Job label
+Background job list
+Job type
+Language
+Language code
+Languages
+Last modification date
+Last name
+length
+Allowed IP addresses
+Application server
+Build number
+Expiry date
+DBMS
+Maximum cluster node count
+Maximum usage in days
+operating system
+Release number
+Line
+List
+Live
+Live version
+Loading...
+Lock
+Locked
+marked for deletion
+system
+workflow process
+workflow process
+Logged as
+Login
+Welcome!
+Logout
+Manage Analytics
+Manage groups
+HTML Filtering
+Manage languages
+Manage modules
+Site roles
+Manage users
+Vanity URLs
+WCAG Compliance
+Managers
+Manual list ordering
+maximum age days
+Message
+Metadata
+ms
+minute(s)
+min
+Mode
+Modification
+Modified
+Module
+Create module
+Module details
+Module ID (artifactId)
+will be generated from module name
+Module name
+Copy of {0}
+Module type
+Modules
+Module list
+month
+April
+August
+December
+February
+January
+July
+June
+March
+May
+November
+October
+September
+Mount
+Move down
+Move first
+Move last
+Move up
+My settings
+Name
+New
+New category
+New content
+New content folder
+New content list
+New Content Template
+New CSS file
+New User Dashboard Base Template
+New node type definition
+New definition file
+New external link
+New file
+New internal link
+New package
+Failed to create package {0}
+Wrong package name {0}
+New javascript file
+New Module
+New node type namespace
+New menu label
+New newsletter
+New page
+New Page Template
+Add permission
+New portlet
+New Server Settings Base Template
+New Site Settings Base Template
+New Template
+New Template Set
+New Wrapper
+New workflow rule
+Next
+Next step
+Next iteration version
+No
+No values available
+No sites available
+No item found
+No providers are available
+No result
+Automatically created (you can type your name here if you want)
+Nodetype
+Nodetype is not well formed.
+none
+No target sites
+not yet created
+Note that
+Waiting tasks
+No Waiting tasks
+of
+OK
+on
+Webfolder
+Show in Repository Explorer
+Open in new window
+Operation
+Options
+Organization
+Owner
+Page
+Page picker
+Page URL
+Page picker
+Pages browser
+Parameters
+Parent object
+Password
+Paste
+Paste one page
+Paste reference
+Path
+Permissions for actions in modules
+Add Blog entry
+Add child nodes (default)
+Add child nodes (live)
+Add Comment
+Add member to group
+Add users in roles
+Access Server Settings
+View About page
+Bootstrap Customization
+Manage Cache
+Manage Database settings
+Access to Documentation
+Manage E-mail settings
+Report Issues
+Manage Memory
+Microsoft Translation management
+Manage Password Policy
+Manage Portlets
+Manage Roles
+Manage Server Administrator
+Manage Server Roles
+View System Information
+Manage Modules
+Manage Users
+Manage Web Projects
+Access to Administration
+Basic permissions for default workspace
+Basic permissions for live workspace
+Permissions for the Blog module
+Access to Categories selector
+Access to Category Manager
+Comment a workflow Task
+Permissions for comments
+Basic content
+Form content
+Layout Component content
+List content
+Multimedia content
+Query content
+Site Component
+Social Component
+Structured content
+Tags content
+User Profile Components
+Permissions related to components
+Permissions for the contact form
+View Contacts
+Access to Content selector
+Permissions for the Contribute mode
+Access to the Contribute mode
+Create new Blog
+Create page
+Create post
+Create room
+Create section
+Access to Create selector
+Create topic
+Other permissions
+Delete Blog
+Delete Blog entry
+Delete post
+Delete room
+Delete section
+Delete thread
+Access to Dependencies selector
+Permissions related to Server Administration
+Edit Blog settings
+Edit Blog entry
+Permissions for the Edit mode
+Access to the Edit mode
+Create Page
+Use specific actions in Edit mode
+Edit post
+Permissions for Edit selector
+Edit Wiki content
+Access to Editorial Content Manager
+Permissions for the various tabs in the content Engines
+Execute a workflow Task
+Access to File Manager
+Access to Files and Images selector
+Permissions for the Forum module
+Last selector used
+Manage lifecycle (default)
+Manage lifecycle (live)
+Manage locks (default)
+Manage locks (live)
+Permissions for the various managers
+Moderate post
+Modify access control (default)
+Modify access control (live)
+Modify properties (default)
+Modify properties in German (default)
+Modify properties in English (default)
+Modify properties in Spanish(default)
+Modify properties in French (default)
+Modify properties in Italian (default)
+Modify properties in Portuguese (default)
+Modify properties (live)
+Modify properties in German (live)
+Modify properties in English (live)
+Modify properties in Spanish(live)
+Modify properties in French (live)
+Modify properties in Italian (live)
+Modify properties in Portuguese (live)
+Move
+Manage node types (default)
+Manage node types (live)
+Access to Portlet Definition Manager
+Access to Portlet Manager
+Access to Portlets selector
+Choose remote publication
+Finish correction
+First review
+Publication review
+Start publication workflow
+Permissions for publishing content without using a workflow
+Read access control (default)
+Read access control (live)
+Read (default)
+Read (live)
+Access to Remote Publication Manager
+Remove child nodes (default)
+Remove child nodes (live)
+Remove node (default)
+Remove node (live)
+Remove Wiki content
+Report post
+Access to Repository Explorer
+Basic permissions
+Permissions to read, write, and manage nodes
+Retention management (default)
+Retention management (live)
+Access to Search selector
+Manage Groups
+Manage HTML settings for site
+Manage Languages
+Access to site Link Checker
+Manage Roles
+Manage administration templates for site
+Manage URL Mapping for site
+Manage site WCAG compliance
+Access to the Site Administration selector
+Access to Site Manager
+Access to Site Settings
+Permissions related to Site administration
+Access to Sitemap selector
+Start workflow
+Permissions for the Studio mode
+Access to the Studio mode
+Permissions related to Studio selector
+Access to Tag Manager
+Single column page template
+2-column page template
+3-column page template
+Permissions related to the Blog templates
+Blog home page template
+New Blog page template
+Double page template
+Event template
+Permissions related to the Forum templates
+Forum home page template
+New topic template
+Forum room template
+Full page template
+Home page template
+News template
+Newsletter confirmation page template
+Newsletter subscriptions page template
+Publication template
+Simple page template
+Summary template
+Permissions related to the Wiki module
+Access Wiki search results
+Create pages using a specific template
+Access to Templates selector
+Manage Microsoft Translation
+Version management (default)
+Version management (live)
+View Categories tab
+View Component Rights tab
+View contacts
+View Content tab
+View Contribute Mode tab
+View Edit Roles tab
+View History tab
+View Layout tab
+View Live Roles tab
+View Metadata tab
+View Options tab
+View Roles tab
+View SEO tab
+View Usages tab
+View Versioning tab
+View Visibility tab
+View Wiki history
+View Workflow tab
+View all jobs
+View basic WYSIWYG editor
+View full WYSIWYG editor
+View light WYSIWYG editor
+Permissions for the Wiki module
+Workflow-related permissions
+Write (default)
+Write (live)
+Permissions for the WYSIWYG rich-text editor
+Personal Folder
+Portlet&nbsp;Description
+Portlet List
+Portlet&nbsp;Name
+Prepare portlet for deployment
+Portlet manager
+Portlet picker
+Prepare and deploy portlets
+Preview
+In-Context
+Customized preview
+Content has been marked for deletion and won't be available after the publication.
+Channel
+Orientation
+Show customized preview
+Pick a date for the preview
+Customized preview
+Previous
+Print
+Process manager
+Properties
+Property
+Providers
+Publication
+Content with the same name already exists in live and won't be part of this publication
+Content has been deleted
+Content has been modified in live
+Content exist only in live and so is not publishable
+Content is locked
+Content does not exist in this mandatory languages and so is not publishable for now (for example page title, mandatory property, ...)
+Content exist in this mandatory language but does not exist in all mandatory languages and so is not publishable for now
+Content has been deleted
+Content has been modified
+Nothing to publish
+Nothing to unpublish
+Content has never been published
+Content is already published
+Publication status
+Publishing content
+Content has been unpublished
+Unpublishing content
+Content is work in progress
+Publication manager
+Publish
+all languages
+Publish all under selected items
+Publish all under selected items in all languages
+Publish {0} in all languages
+Publish selected items
+Publish all selected items in all languages
+Published from {0} to {1}
+Published from {0} to {1} with comments "{2}"
+Publish site
+Publish all under
+Publish all under {0} in all languages
+Published
+Query empty
+Quick edit
+Quit
+Read
+Refresh
+Click refresh to see updated content
+Release
+Distribution server (Maven)
+If your distribution server requires authentication, please, provide the corresponding <server/> section in your Maven's settings.xml file.
+Cannot get module page, error
+No target distribution server configured for this module yet.
+Would you like to configure the distribution server now?
+A target distribution server is a Maven repository, where built module artifacts (module JAR file) are pushed to during module release process.
+Updating distribution management server information for module...
+Cannot update distribution server information
+Copy URL displayed on the Private App Store home page
+Module release failed
+Loading release information for module...
+Cannot load module information for release
+Publish to Maven distribution server
+Publish to Private App Store
+Releasing module...
+Release module
+Remember me
+User password on target site
+Remote path
+End time of the replication (optional)
+Start time of the replication (optional)
+Cron expression for scheduling
+Remote publication manager
+Target server URL
+User of target site
+Test settings
+Remote publication manager
+Remove
+Do you really want to remove the current selection?
+is using this node in page(s)
+Click to remove the dependency
+Rename
+Loop detected while rendering resource {0}. Please check your content structure and references.
+Repository Explorer
+Request deletion approval
+Request publication
+Reset
+Resize
+Add new language to the resource bundle
+Choose
+The language you entered is invalid
+or type the locale
+Duplicate "{0}" to
+Please provide a key for the new resource bundle entry
+Rename "{0}" to
+Restore
+Sync with live version
+Review content
+Rights
+Role manager
+Role/permission mapping
+Rotate
+Rotate left
+Rotate right
+Save
+Save as...
+Save as My portal component
+Error while getting My Portal nodes.
+You are not allowed to store components for My Portal. Please ask your administrator to get access.
+Error while making your component available for users in their portal page.
+There is no Portal Components folder declared. The component can not be saved
+Select a Portal Components folder
+Component saved in {0}. It will be available for My Portal users only after publication. To proceed, go in the Content Tab to the selected Portal Components folder, select the component you want to publish in the lower tab then publish it (use right click).
+Save as shared component
+Save as view
+Save as work in progress
+If checked, this content will not be part of publication process
+Save changes
+Save cropped image as
+Saving...
+Schedule as background job
+Scheduled
+SCM: resource added
+SCM: resources copied in index
+SCM: resource deleted/moved
+SCM: resource modified
+SCM: resource renamed
+SCM: resource in conflict or unmerged
+SCM: resource is untracked (not under version control)
+SCM type
+Search
+Search in
+Search
+Searching
+seconds
+sec
+Select device...
+Select syntax highlighting
+Select variant...
+Select your Web project
+Selected Categories
+Number of selected history entries
+Number of selected jobs
+Selected page
+Categories
+Mobile
+Content
+Create content
+Dependencies
+Files and images
+Files, images and themes
+File system
+Latest content
+Pages
+Portlets
+Search
+Server settings
+Site Settings
+Site settings
+System site settings
+Templates
+Themes
+Workflow
+Send newsletter issue
+Send now
+Send to source control
+Server settings
+Manage roles
+Settings
+Show Permissions status
+Show Publication status
+Trash
+Show visibility status
+Show Workflow status
+Site
+Component Manager
+Site manager
+Site map
+List of sites with this module already deployed
+List of sites that do not have this module deployed
+Size
+Skip
+Working version number must end with -SNAPSHOT
+Snippet Type
+Conditionals
+Loops
+Module resources
+Properties
+All Resources
+Sort by lastname
+Sort by property
+Sort by provider
+Source node
+Source Control
+Add to Source Control
+Failed to add to Source Control
+Added to Source Control with success
+Getting sources...
+Module updated
+Mark conflict as resolved
+Failed to mark conflict as resolved
+Conflict marked as resolved with success
+Sending sources...
+Sources downloaded
+Updating module...
+Get sources from source control
+Sources folder (optional - will be created with new sources)
+Staging version
+Staging content
+My Space
+Start Error Dumper
+Start Thread Monitor
+start after days
+Start date
+started
+Status
+Step
+Stop
+Stop Error Dumper
+Stop Thread Monitor
+stopped
+Choose a code template
+Default view
+Loader view
+Please select a stub in the list
+Studio
+Structure
+In-context
+Submit
+Subscriber
+Subscription Manager
+Suspended
+SVN
+Synchronize
+Automatically synchronize name with title
+System name
+Tag
+Tag manager
+Tags
+Target action
+Target node identifier
+Target paths
+You have a new task to do
+tasks running
+Template type
+Template type is not well formed.
+Deploy
+Deploy on all sites
+Please select at least one site for the deployment.
+Update all sites already using this module
+Test newsletter issue
+Text extraction
+Thread Monitor is
+Thumbnails
+Time range
+Title
+Tools
+Translate
+Copy to other language
+Copy to all languages
+Content has been copied to other languages
+Suggest translation
+Do you want to replace the content by an automatic translation of it?
+Trash dashboard
+{0} on {1} said about "{2}"
+Type
+Type here to filter the list
+Type name
+Type filter
+Undelete
+United content manager
+Unlock
+Unmount
+Unpublish
+Unzip
+Update
+Update module
+Upload
+URI
+URL
+Active
+All Urlmappings
+Default
+Display Urlmappings
+SEO Url should not contains /sites as it is used by the system.
+Filter
+While using localhost as server-name, the SEO URL mapping is not activated
+Lang
+Mappings
+Display Vanity URL
+PageID
+SiteID
+Clean references
+Use manual ordering
+User
+Logged as ${PrincipalViewHelper.getDisplayName($currentUser, $currentLocale)}
+Select users
+Username
+Users
+Valid display languages
+Not visible content
+Value
+Variant
+Compare 2 published versions
+Show published versions
+Version 1
+Version 2
+View
+Display hidden properties
+Display hidden nodes
+View name
+View name is not well formed.
+View source
+View publication status
+Web Projects
+Web Project variables
+(will be used as default)
+Add new condition
+All conditions should match
+Current conditions result
+Current status
+Current status in live
+Publication status
+Publish conditions on save
+Warning
+Ignore error(s)
+WCAG Compliance ({0} errors / {1} warnings / {2} infos)
+WebDAV URL
+Get WebDAV URL
+Webfolder
+week
+Width
+work in progress
+Work in progress, please wait...
+Workflow
+Cannot start workflow
+Last Comment At
+A workflow has ended
+Workflow failed
+Workflow executed
+Same workflow as parent
+Warning: there are multiple workflow involved in this action
+Start workflow
+Start all workflows
+{0} started by {1} on {2} - {3} content items involved
+Workflow Starting Node
+Workflow started
+Executing workflow task
+Task Started At
+Title
+Workflow action
+Workflow per node type set-up
+Workflow state
+Workflow Dashboard
+Workflow
+year
+Yes
+Zip
+Login to
+Logout from
+Members
+Your user account is currently locked out. Please contact the system administrator to reset it.
+Do you really want to undelete the selected resource {0}?
+Content not published
+Content published
+Can not publish
+Content unpublished
+Can not unpublished
+Would you like to continue?
+An error occurred while processing your request
+Invalid username/password
+Module successfully created
+Module creation failed
+Module saved
+Saving module...
+There was a problem while checking permissions. If you encounter a wrongly denied permission, please try reloading the page.
+You are about to execute the remote publication action. Would you like to continue?
+Do you really want to remove the {0} selected resources?
+Those nodes are still used in:
+Do you really want to remove the selected resource {0}?
+Do you really want to remove the selected <span style
+Do you really want to remove the selected <span style
+This node is still used by:
+<br/><span style
+Do you really want to request deletion approval for the resource {0}?
+Do you really want to request publication for the selected resources?
+This content can only be accessed in live mode
+Please select a WAR file for upload
+You have been performed no actions for some time. Due to security concerns we have ended your session. Please log in again.
+Do you really want to permanently remove {0} subscriptions?
+Do you really want to resume {0} subscription(s)?
+Do you really want to suspend {0} subscription(s)?
+Operation completed successfully
+successfully created.
+successfully removed.
+successfully updated.
+Template set successfully created
+Templates set creation failed
+Do you really want to undelete the selected resource {0}?
+Do you really want to undelete the {0} selected resources?
+Do you really want to undelete the selected resources?
+Unknown permission
+Uploading...
+Publication workflow started
+Starting publication workflow
+Workflow task failed to execute
+Workflow task executed successfully
+MIME types
+Modes
+Module
+System
+Template set
+Mount point
+New directory name
+Add new groups
+New name
+Add new users
+Node types
+Manage roles
+Advanced content visibility management
+AT Internet
+CAS Authentication
+JAAS Authentication
+NTLM Authentication
+SPNEGO Authentication
+Login
+Click
+here
+to go back.
+Advanced aggregated output cache
+Portal Factory - CMIS provider
+All rights reserved.
+Digital Experience Manager core framework
+Distributed sessions
+eCommerce Factory
+Add modes-group permission
+Add modes-user permission
+Set modes-permissions
+Modes-permissions
+The selected portlet contains only view mode
+OK
+Edit parameters
+Select a portlet
+Portlet definition
+Unable to load properties
+Add roles-group permission
+Add roles-user permission
+The selected portlet defines any roles
+Set roles-permissions
+Roles-permissions
+Save as
+Portlets WAR file
+Label
+Select a definition to create your content:
+Content definitions
+Unable to load properties panel
+Unable to create new content. Cause:
+Info
+Content node created successfully:
+Fill in field values:
+Content add form
+Selected type:
+Provide a name for the new content:
+Content name
+Groupname
+Public
+Authenticated Users
+Duration
+End date
+Start date
+Password must be changed on the first login
+Password expiration period of {0} days reached
+Your password is {0} days old. The password maximum age is {1} days. Please, take a time to change your password before expiration
+Password cannot be longer than {0} characters
+Password must contain at least {0} digit(s)
+Password must contain at least {0} of the following characters: {1}
+Password must contain at least {0} characters
+You are not allowed to change the password
+It is not allowed to reuse last {0} passwords
+Password is not allowed to be similar to the user name
+Admin
+Break all inheritance
+Modify rights
+Restore all inheritance
+Restore inheritance
+Unauthenticated user
+Next >
+< Previous
+Wizard
+Portal Factory - ESIGate module
+Form Factory
+Area
+Categories
+Drag results in the page
+Save template
+Tags
+Current status
+Publication allowed
+Not yet published
+Landing Page Factory
+Link checker
+Manage workflow
+Marketing Factory
+Marketo connector
+Google Analytics for Marketing Factory
+Facebook OAuth Connector
+LinkedIn OAuth Connector
+Portal Factory
+Private App Store
+Remote publishing
+Elasticsearch Front-End Search Provider
+
+
+Your app server {0} is not allowed by the license (License app server
+Your Digital Experience Manager Build {0} is not in range {1} to {2}
+Your are using Digital Experience Manager Build {0} with a license that only authorises build {1}
+The number of nodes in this Digital Experience Manager cluster installation ({0}) is not within the allowed range ({1} to {2})
+The number of nodes in this Digital Experience Manager cluster installation ({0}) is higher than the allowed amount ({1})
+Your {0} trial days have expired. Please contact us at info@jahia.org if you need a new license!
+You had a license for {0} to {1} days that has now expired. Please contact us at info@jahia.org if you need a new license!
+Your database {0} is not allowed by the license (License database
+The current date [{0}] is not in range accepted by license [{1}] to [{2}]
+The current date [{0}] is not accepted by license. Accepted license date is [{1}]
+Invalid date value [{0}] found in license file.
+Your {0} trial days have expired. Please contact us at info@jahia.org if you need a new license!
+You had a license for {0} to {1} days that has now expired. Please contact us at info@jahia.org if you need a new license!
+Error retrieving the server's IP address for the machine running this instance of Digital Experience Manager
+Current IP address {0} for Digital Experience Manager Server is not authorized by license. (License IP
+IP address {0} is not in allowed range {1} to {2}
+IP address {0} has an invalid format
+Your operating system {0} is not allowed by the license (License OS
+The current Digital Experience Manager release {0} is not authorized in license (license release authorized
+The current Digital Experience Manager release {0} is not in the range authorized by license ({1} to {2})
+The current version {0} is not authorized in license (license release authorized
+The current version {0} is not in the range authorized by license ({1} to {2})
+Please add and complete the 'Alternative Text' field ('alt' attribute) with a meaningfull description of the image [<strong>{0}</strong>] , in order to make it accessible to blind people and search engines.
+Please complete the 'Alternative Text' field ('alt' attribute) with a meaningfull description of the image [<strong>{0}</strong>] , in order to make it accessible to blind people and search engines. <br/>If the image is a pure decorative image and has no semantic meaning, you may leave it like that and use the ignore checkbox to ignore the warning.
+<a href
+Missing "alt" attribute for "area shape" [<strong>{0}</strong>].
+<a href
+"alt" attribute for "area shape" [<strong>{0}</strong>] is empty. If the area shape is purely decorative and has no semantic meaning, you may leave it like that and use the ignore checkbox to ignore the warning.
+<a href
+<a href
+Attribute "alt" [<strong>{0}</strong>] should not be longer than 60 characters for image [<strong>{1}</strong>] (current length
+Missing "for" attribute for "label" element.
+Missing "id" attribute for "input" element.
+There is no "id" attribute in any "input" element for attribute "for" ({0}). Check all your "label" elements in the "form".
+All text "input" elements should have a corresponding "label" element. "input" element with id ({0}) has no label.
+Missing "name" attribute for "frame" element.
+Attribute "name" cannot contain any white space [<strong>{0}</strong>].
+<a href
+<a href
+Scrolling should be set to at least "auto" for frame [<strong>{0}</strong>].
+Missing <NOFRAME> tag after frameset definition.
+<a href
+Missing "title" attribute for "frame" element [<strong>{0}</strong>].
+<a href
+Missing "summary" attribute for "table" element. <br/>"{0}".
+<a href
+Missing "caption" element for "table" element. <br/>"{0}".
+<a href
+No header cell was found in the table.
+The "th" elements should have an attribute "scope", set to "col", OR an "id" attribute, but not both.
+<a href
+The "th" elements of the first row of the table should have a "col" scope.
+<a href
+The "th" elements of the first row of the table should all use the same attribute ("id" or "scope").
+<a href
+Attribute "header" [<strong>{0}</strong>] has no corresponding "id".
+<a href
+Missing "headers" attribute for "td" element.
+<a href
+HyperLink value [<strong>{0}</strong>] should not be longer than 80 characters (current length
+Missing "title" attribute for "hyperlink" element [<strong>{0}</strong>].
+Attribute "title" [<strong>{1}</strong>] should not be longer than 80 characters for hyperlink [<strong>{0}</strong>] (current length
+<a href
+All same link values should point to the same destination.
+Cannot validate html: {0}
+Edit
+Help
+View
+none
+Workspace Factory
+Save And Add New
+Digital Experience Manager Repository
+Digital Experience Manager LDAP
+Digital Experience Manager LDAP
+Keep ratio
+Remote
+Categories repository
+Components
+Global repository
+Groups Workspaces
+External Repositories
+My Portlet Repository
+My Workspace
+My Saved Searches
+Shared Portlets
+Shared Repository
+Sites
+Tags repository
+Template set contents
+Template set files
+Users Workspaces
+Current Site Portlets
+Current Site
+Roles
+Save search
+Please enter a name for this search
+Script info
+Global search
+select a predefined size
+Selection
+Server address
+Site settings
+Sources were not found for {0} in {2}. Please make sure to select the branch / tag corresponding to the version {1}
+Copying...
+Creating module...
+Creating template set...
+Cutting...
+Generating download link...
+Duplicating template set...
+Listing directory content...
+Locking...
+Mounting...
+Creating folder...
+Pasting...
+Pasting reference...
+Removing...
+Renaming...
+Unlocking...
+Unmounting...
+Unzipping...
+Generating webfolder link...
+Zipping...
+System Site settings
+Filter items:
+Sort items by:
+Upload file(s)
+In validation
+Staged
+Versioned
+My Dashboard
+Author
+Version date
+View
+The following files are locked and won't be affected:
+As Maven is not configured correctly, the studio is not available.
+Detected Maven Version do not match the minimum required version, the studio is not available.
+Following files are locked by the system (used in published content):
+Click the link below to open a web folder:
+Width

@@ -1,0 +1,449 @@
+Auto-split folders
+Split configuration
+Split nodetype
+Content:Basic
+Cache
+Expiration (seconds)
+Cache per user
+Set this page as a Page Model
+Page Model name
+Check this to copy all sub pages
+Categories
+Keywords
+Select channels
+Include or exclude from these channels
+Exclude for these channels
+Include only for these channels
+Select channels
+Creation date
+Creator
+Category
+Description
+Keywords
+Last contributor
+Last modification
+Last publication by
+Last publication
+Contribute mode settings
+Contributors can delete items in the list
+Contributors can reorder items in the list
+Select allowed content types in Contribution (from Editorial content types)
+This list is editable in Contribute Mode
+Description
+Document file
+Application
+Character count
+Encoding
+Page count
+Subject
+Word count
+Any content
+Editorial content
+Picture file (EXIF)
+Color Space
+Components Configuration
+Compressed Bits Per Pixel
+Compression
+Date/Time
+Date/Time Digitized
+Date/Time Original
+Exif Version
+Exposure Bias Value
+Exposure Program
+Exposure Time
+F-Number
+File Source
+Flash
+FlashPix Version
+Displays a flash animation
+Focal Length
+Interoperability Index
+Interoperability Version
+Make
+Max Aperture Value
+Metering Mode
+Camera model
+Orientation
+Resolution Unit
+Scene Type
+Software
+X Resolution
+YCbCr Positioning
+Y Resolution
+Form Components
+Icon
+Icon
+Template
+Template name
+Template
+ACL
+Hidden
+Thumbnail
+HTML settings
+Markup Filtering
+Tags
+WCAG Compliance
+Image file
+Image
+Height
+Thumbnail
+Width
+Keywords
+Keywords
+Publication
+Last Publication Date
+Last Publisher
+Last Publisher
+Last publishing date
+Layout Components
+Link
+Target
+New Window (_blank)
+Parent Window (_parent)
+Same window (_self)
+Topmost window (_top)
+Lists
+List restrictions
+Select allowed content types in that list
+Define maximum number of items allowed in the list
+Set the CSS style for the mockup of the area
+Enter a CSS class name
+Mount point node type
+Template name
+Content:Multimedia
+Select this option if you want to specify the menu where this item should appear
+Select one or more menu
+Navigation type
+Kind of available menus
+Select the menu where you want this item to be displayed
+List ordering (automatic)
+Order direction
+ascending
+descending
+First field to order by
+Case insensitive
+Order direction
+ascending
+descending
+Second field to order by
+Order direction
+ascending
+descending
+Third field to order by
+Pagination
+User profile
+Search and Queries
+Title from resource bundle
+Resource bundle key
+View
+Theme
+Select a view
+Area view
+Select a view
+Sub content view
+Sub content view
+Render of the main resource
+Select a view
+Reference view
+view
+Render of the target user
+Select a view
+Required permissions
+Node where to check the permission
+Invert conditions
+Restricted to logged users
+Restricted to privileged users
+Required mode
+Required permissions
+Required permissions
+Sandbox
+Searchable content
+Site Components
+Size
+Height
+Width
+Skinnable
+Skin
+skin
+Social Components
+Content:Structured
+Tags
+Tags
+Tags
+Test type
+big text
+Boolean
+Category
+Date
+Test long
+Menu
+Multiple categories
+protected big text
+Protected category
+Protected date
+Protected text
+Test text
+Theme
+Theme
+Theme
+Thumbnail
+Thumbnail
+My Space Components
+View properties
+Iframe
+Iframe box
+Iframe container
+alt
+frameborder
+Height
+Margin Height
+Margin width
+Name
+scrolling
+Source
+Width
+Absolute area
+Level
+Limit edition on main page
+Area
+Filter
+Author display
+Display "About me"
+Display the birth date
+Display the Email
+Display the first name
+Display the gender
+Display the last name
+Display the picture
+Display the title
+Display the details of the author of a linked node
+Big Text
+Box
+Title
+Type
+category
+Child node definition
+Auto created
+Default primary type
+Mandatory
+On parent version
+Protected
+Required primary types
+Component
+Component folder
+Content Folder
+Display a content folder
+select the path of the content folder to display
+Display the content of an existing content folder
+Content List
+Displays a simple list that contains multiple content
+Content reference
+Node
+Create a reference to a content
+Content template
+Apply on these types
+Can be used as default
+Priority
+Current user
+Event
+Event Box
+Event container
+Event content
+Begin date
+End date
+Title
+Link (external)
+URL
+FAQ entry
+FAQ: list et summary
+File
+File container
+File
+File description
+Display details
+Content box
+Content container
+source
+File reference (Multi-Language)
+Link to a file, different in all languages
+File reference
+File
+Link to a file
+Files box
+File Container
+Flash box
+Flash container
+Align Flash container
+base
+bgcolor
+flashPlayer version
+source
+flashvars
+Height
+id
+loop
+menu
+Name
+play
+quality
+salign
+scale
+swliveconnect
+Width
+wmode
+Folder
+Global settings
+Code
+Grid content list
+Image
+Image (Multi-Language)
+Displays an image, different in all languages
+Displays an image
+Java source file
+Absolute area with start level
+Main resource Display
+Mixin nodetype
+Is queryable
+Items type
+Mixin extends
+Mixins
+Namespace
+Mount point
+Local mount point
+Namespace Definition
+Prefix
+The namespace prefix to be mapped, e.g.: 'mynt', 'mymix', etc.
+URI
+The namespace URI to be mapped, e.g.: http://www.jahia.org/my/nt/1.0
+Navigation bar
+Max depth
+Start level
+Navigation link
+Navigation link
+News
+Internal Link
+Page
+Target
+Target
+Description
+Non Internationalized Page (title shared between all languages)
+Page
+Template thumbnail
+Portlet
+Cache scope
+Definition
+Expiration time
+Portlet Folder
+Portlet reference
+Portlet
+Create a reference to a portlet instance
+Primary nodetype
+Has orderable child nodes
+Abstract
+Queryable
+Items type
+Mixins
+Namespace
+Primary item name
+Supertype
+Properties file
+Property definition
+Analyzer
+Auto created
+Available query operators
+Default values
+Index
+Facetable
+Fulltext searchable
+Hidden
+Hierarchical
+Internationalized
+Query orderable
+Item type
+Mandatory
+Multiple
+On conflict action
+On parent version
+Protected
+Required type
+Scoreboost
+Selector options
+Selector type
+Value constraints
+JCR query
+Items to show
+Executes a JCR query in XPATH or SQL2 and displays the results as a list
+Remote publication
+Source node
+Password of the distant site user
+Remote path
+Target server URL
+Login of the distant site user
+Cron expression for scheduling
+Role
+This role grants read rights on default workspace, users will be placed in site-privileged group
+Role group
+Edit role
+Live role
+Description
+Time-based publishing
+Symbolic link
+Link target
+System Folder
+Template
+Hidden from selection
+Required mode
+Required permissions
+Templates folder
+Default view
+Templates deployement root path
+Optional templates set to use as context for rendering
+Unstructured child node definition
+Unstructured property definition
+VFS mount point
+Root path
+Video
+Embeds a video
+View file
+Virtual site
+Allow to use unlisted languages
+Default language
+Default template
+Default template
+Dependencies
+Site description
+Inactive languages (browsing and editing)
+Inactive languages (Live browsing)
+Installed modules
+Languages
+Mandatory languages
+Mix languages when navigating site
+Site server name
+Site ID
+Templates set
+Site title
+Workflow rule
+Available workflows
+Node
+Node type
+XML file
+Creation
+Creation date
+Creator
+Creator
+Last modification
+Last modification date
+Last contributor
+Mime type
+Encoding
+File format
+Title
+Description
+Title
+Type
+File
+JCR content
+Folder
+Query
+Language
+Statement
