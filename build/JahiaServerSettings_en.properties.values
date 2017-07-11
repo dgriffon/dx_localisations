@@ -1,0 +1,201 @@
+Perform thread dump
+download as a file
+Perform multiple thread dump to a file
+View in a new browser window
+About Digital Experience Manager
+Notice: There are custom terms and conditions.
+Build
+Administrator properties
+Cache Manager
+Cache configuration details
+disk
+Entries
+Flush cache
+Flush all caches
+Flush all caches (all across the cluster)
+Does the same flush as 'Flush all caches' also propagating flush to all cluster nodes.
+Triggers the flush of all caches, including back-end and front-end (module output) caches.
+Flush caches for
+Flush caches for (all across the cluster)
+Does the same flush as 'Flush caches for' also propagating flush to all cluster nodes.
+Flushes all caches of this manager
+Flush HTML output caches
+Flush HTML output caches (all across the cluster)
+Does the same flush as 'Flush HTML output caches' also propagating flush to all cluster nodes.
+Performs flush of module output caches that are responsible for caching HTML page and fragment output, rendered in Live mode.
+Hits
+Memory
+Misses
+Name
+Off-heap
+Rate, %
+Settings
+Show actions
+Show size in bytes (expensive)
+Show configuration details
+Cache configuration details
+Size
+Access statistics
+Disable statistics
+Disable statistics
+Enable statistics
+Enable statistics
+Switches statistics on caches of this manager
+Total
+Cache
+Configuration
+Database Settings
+Home
+Database information
+URL
+JDBC driver
+Connection pool
+Maximum number of active connections
+Number of currently active connections
+Number of currently idle connections
+Go to Edit Mode
+<strong>{0}</strong> groups found. The first <strong>{1}</strong> are shown. Please use the search to limit the number of results.
+Community Edition
+Back to roles
+Mail server settings
+Mail server URL
+Mail administrator
+Mail Administrator must be set.
+Please enter valid e-mail address.
+Mail From must be set.
+Mail server URL must be set.
+Event Notification Level
+DISABLED
+PARANOID
+STANDARD
+WARY
+Mail from
+Service status
+Test settings
+Failed to send a test e-mail message. Please check the settings.
+[Jahia] Test Message
+This is an e-mail message sent automatically by portal server while testing the e-mail server settings.
+A test e-mail was sent to the configured e-mail account.
+Memory and thread dumps
+The error file dumper is using the following directory
+This location can be overridden with a system property named <code>jahia.error.dir</code>,\r\ne.g. by adding <code>-Djahia.error.dir
+Please note that these settings are valid only during server run time and are not persisted between server restarts.
+Error File Dumper is stopped. Click to start it.
+Error File Dumper is started. Click to stop it.
+Memory
+Back to overview
+Committed memory
+Returns the amount of memory in bytes that is committed for the Java virtual machine to use. This amount of memory is guaranteed for the Java virtual machine to use.
+Run garbage collector
+Garbage collection triggered
+Perform heap dump
+Heap dump performed into a file: {0}
+Maximum JVM memory allowed
+The maximum amount of memory in bytes that can be used for memory management. This amount of memory is not guaranteed to be available for memory management if it is greater than the amount of committed memory. The Java virtual machine may fail to allocate memory even if the amount of used memory does not exceed this maximum size.
+Used memory
+The amount of used memory in bytes
+Thread dump
+The thread dumps are performed into a folder
+This location can be overridden with a system property named <code>jahia.thread.dir</code>,\r\ne.g. by adding <code>-Djahia.thread.dir
+Thread Dump Monitor is stopped. Click to start it.
+Thread Dump Monitor is started. Click to stop it.
+Perform thread dump in a file on server
+Perform thread dump and download it as a file
+Perform multiple thread dumps in files on server
+Perform thread dump in this page
+Perform thread dump in Console
+used
+Portlets
+Server Roles
+Do you want to revoke the selected role?
+Web Projects
+Create
+Create your Web Project
+Please be careful: this will permanently delete the Web Project from your server.
+Edit site
+Go to Edit Mode
+Export to server directory
+Import
+Please select a path on the server for the file to import or a file to upload.
+The following files were empty: {0}. Please check your files and try again.
+Failed to resolve {0} constraint(s) - click on detail for more information.
+Node [{0}] has missing mandatory property(ies): {1}.
+Node [{0}] has missing internationalized mandatory property(ies): {1}.
+Node [{0}] cannot set property [{1}] to value '{2}' as it is not matching property definition constraints.
+Failed validation {0}/{1} validated in {2} ms: {3}
+Ignore the following errors. Import a non compliant export will lead to a loss of data, use it at your own risk.
+Missing mixin types
+Missing nodetypes
+Detected {0} missing portlet(s)
+Detected {0} unavailable provider(s). If you continue, some content won't be imported.
+Use prepackaged project
+ACME Website Demo 6.5
+ACME Space Website Demo 6.6
+ACME Space Website Demo 7.0
+CorpV2 Demo (Jahia 5.x)
+Please select the project to be imported
+Proceed
+TCK Demo (Test Compatibility Kit)
+ACME Website Demo 6.0 (legacy)
+Server name is invalid.
+Site key is invalid.
+Import archive
+Or give the path of import file on the server.
+Please select the file to import.
+You have not selected any Web Project.
+Please choose a mapping file (content migration).
+Please choose a definitions file (content migration).
+Server name is already used.
+Site key is already used.
+System site
+Web Projects
+Please choose another server name.
+Please choose another site key.
+Please complete requested information (*).
+Please provide a valid server name.
+You do not have any deployed template sets. Please deploy some.
+Please use only letters, digits or underscores in site key.
+Are you sure to change the site server name now?\nIt will flush the site output caches.\nThis should only be done when the server load is low.
+Create an administrator for the new Web Project
+Set as the default Web Project
+An error occurred when saving your Web project data: {0}.
+This Web Project is the default site.
+Default language
+Select the Web project default language
+Choose modules to be deployed
+Select templates set
+Server name
+Site key
+Template set
+Web project title
+Password policy
+Active
+Force password change on first login
+Maximum password length
+Minimum password length
+Number of digits required
+Number of special characters required
+Do not allow users to change their passwords
+Prevent password reuse. Remember last passwords
+Prevent using password similar to the user name
+Password expires in (days).
+Warn if the password is older than (days)
+Password Policy
+The portlet has been deployed into your application server. It will be available as soon as the server registers it.
+The following portlet WAR is ready to be deployed in your application server. As soon as the portlet application (WAR) is deployed to the servlet container the portlet application will be available to the portal and can be added to pages.
+<div style
+Report an issue
+Please follow the link to report an issue
+Report
+Search settings
+Provider name invalid
+Search provider
+System components
+System Health
+Environment variables
+System properties
+System information
+Users and Roles
+Please choose a template set.
+Please choose a mapping file (content migration)
+Please choose a definitions file (content migration)
