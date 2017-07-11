@@ -1,3 +1,3 @@
-sed -i 's/^/^=/g' values
+sed -i 's/^/^=/g' $1.values
 
-paste keys values > $1
+paste keys values > $2
