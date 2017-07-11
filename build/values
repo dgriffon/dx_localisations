@@ -1,0 +1,656 @@
+Add
+Click here to add a file from your computer (file will be uploaded in your files directory before submitting the form)
+Administration
+#advanced user settings
+Advanced Edit Settings
+as
+# This resource bundle file contains resources common to all templates, such
+# as the new topbar resources.
+Back to previous page
+by
+Cancel
+Live chat
+Comment:
+Pseudo
+Title:
+Content folder
+Contribute
+Roles
+Back to roles
+<strong>{0}</strong> groups found. The first <strong>{1}</strong> are shown. Please use the search to limit the number of results.
+Do you want to revoke the selected role?
+<strong>{0}</strong> users found. The first <strong>{1}</strong> are shown. Please use the search to limit the number of results.
+Delete
+Delete post
+Delete thread
+Edit
+Edit post
+File manager
+All Fires activation
+Font down
+Font up
+Home
+Invalid username/password
+Columns
+Number of columns (2 or more)
+Comments
+Link title
+External link (URL)
+Forum components
+Hide node in navigation menu
+Hide node in navigation menu
+Internal link (Page)
+List layout
+Layout
+Files Layout
+Simple Layout
+Sitemap
+User filter
+First field
+Second field
+Third field
+Iframe
+Commentable
+Add content
+Type
+Back to parent page
+Create a link to the parent page
+Banner
+Background
+Cast
+Position left
+Position top
+Displays a banner, with an image and a text on top of it
+Rich text
+Text
+Rich text containing HTML
+Categorizing
+Comments
+Display Comments
+Link with forced template
+Class to apply on the link
+Class to apply to the div tag that includes the link
+Enter a template for the bound component
+Display categories
+Display the current language
+Display the current language
+Display Metadata
+Display the categories
+Display the creation date
+Display the creator
+Display the description
+Display the keywords
+Display the last contributor
+Display the last modification date
+Displays the metadata of a linked node
+The file has been modified externally, please reload it.
+An error occurred when saving file. For a more detailed message, please use edit form.
+External link on Image (Multi-Language)
+Displays an image, different in all languages, with an associated external link
+External link on Image
+Link URL
+Displays an image with an associated external link
+Files/Images from a folder
+Select a folder to display files and images
+Use the nodename as a title
+Displays the content of an existing folder of files
+File upload form
+Select a target
+Flash animation
+Align
+Base
+Background Color
+Flash player
+Source
+Custom variables
+Height
+The input must either be an integer number (interpreted as pixels) or a percentage of the available vertical space (e.g. 50%)
+The input must either be an integer number (interpreted as pixels) or a percentage of the available vertical space (e.g. 50%)
+ID
+Loop
+Display flash menu
+Name
+Play
+Quality
+Scale
+SW live connect
+Width
+The input must either be an integer number (interpreted as pixels) or a percentage of the available horizontal space (e.g. 50%)
+The input must either be an integer number (interpreted as pixels) or a percentage of the available horizontal space (e.g. 50%)
+Window mode
+Embeds a flash animation
+Frame
+Alt
+Frame border
+Height
+Margin height
+Margin width
+Name
+Scrolling
+Source, must be on the same domain due to browser cross domain protections (ex : http://yourhost/page.html or /page.html)
+Width
+Includes an HTML frame
+Link to Administration
+Picture
+Target
+Web project settings
+Manage groups
+Manage users
+Link to Contribute Mode
+Link to Edit mode
+Picture
+Link to Content Manager
+Picture
+Type
+Content
+Documents
+United content
+Link to Studio mode
+Picture
+Image
+Image (from the Document Manager)
+Alternate text
+Image
+Image (from the Document Manager)
+Alternative text
+Image
+Link type
+Internal
+External
+No link
+Introduction
+Text
+Rich text for introduction, with HTML
+Language switcher
+Type of display
+Links list
+Create a simple list of links
+List of all sites
+Link to administration
+Display link to the contribute mode
+Delete site link
+Display details link
+Details link label
+Details link template
+Display as a table
+Display link to the edit mode
+Edit site properties
+Export link
+Display link to the live mode
+Max number of sites returned
+Fill the max number of sites per page
+Display link to the preview mode
+select if the link is in contribute or edit mode
+Select a type of content
+Contents
+Files
+Web Site
+Street
+Town
+Zip Code
+Login
+Login form
+Display "login" button
+Display "remember me" button
+Displays a login form with username/password
+Logout
+Main content
+Align
+Body
+Image
+Displays a content with an HTML text and an image
+Menu bar
+Ajax mode dispatcher
+Mode
+Navigation menu
+Allowed types
+Baseline node
+unique &lt;div&gt; ID define in the page to reference this menu
+Max depth
+view of the menu items
+Kind of menu you want to display
+Start level
+style that surround the menu. This style must be declared in your css file.
+Navigation menu - JCR Query
+Navigation menu - Text (separator)
+Displays a navigation menu
+Internal link
+Internal link on Image (Multi-Language)
+Displays an image, different in all languages, with an associated internal link
+Internal link on Image
+Page
+Displays an image with an associated internal link
+Breadcrumb
+Display current page
+Display the home page
+Display link for the current page
+Display on first level
+Creates a breadcrumb from the home page to the current page
+Page form creation
+Button label
+Pages created will be internationalized
+Stay on current page after creation
+Template node
+Display a textarea for be able to set a description
+Displays a form that allows the creation of a new page
+Page title
+Displays the title of the current page
+
+Pager
+Do you want to display the number of items per page selector ?
+Steps which should be displayed (in a comma seperated list)
+Do you want to display the pager (do not activate if only needed for initialization)?
+Number of pages to display
+Number of items in pages
+Creates a pager for a list of content
+Related content based on tags
+Number of related content to display
+Content types to display
+Reusable component
+Picture
+Shortcuts
+Sibling navigation
+Display link to parent
+Tag cloud
+Teaser
+Simple text
+Text
+Simple plain text, no HTML
+Forum discussion thread
+Toggle mobile display
+Tree
+Select a node type
+Select a template for link
+Displays a tree of a sub nodes of a selected type
+Age
+About me
+Address
+Birth Date
+City
+Country
+Email
+The input does not conform to valid email syntax
+Facebook ID
+Fax
+First name
+Function
+Gender
+Female
+Male
+Other
+Last name
+LinkedIn ID
+Mobile phone number
+Organization
+Phone number
+Phone Type
+User portrait
+Skype ID
+Title
+Dr.
+Mrs.
+Master
+Miss
+Mr.
+Pr.
+Twitter ID
+Zip code
+Preferred Language
+Gender
+Member Of Groups
+Private
+Phone Numbers
+Preferences
+Public
+Upload your picture
+years
+Your preferences
+Video
+Auto play
+Auto start
+Force Flash Player
+Height
+Name
+Show controls
+Source
+No source specified.
+Width
+About me:
+Add categories:
+Add new content here
+Reset
+Create
+Add tags:
+Back to preview
+Server Settings Panel
+Site Settings Panel
+User Dashboard
+ {0} created
+ The {0} was created successfully.
+Captcha value:
+Enter the captcha value here:
+Categories
+Not Categorized Yet
+Display full version
+Display mobile version
+Click to edit
+Comments list
+Comments can be added only in live mode
+Creation of content is only available in Live Mode
+Double click on a file to add it in the typing area.
+Double click on a file to add it in your article.
+Metadata
+Click or drop your file(s) here
+Click to upload your files here
+add a file
+click here to attach a file
+You need to upgrade your Flash Player
+Guest users
+Logged as:
+Change properties
+Delete site
+Export
+Export staging only
+Site properties
+Submit changes
+Title
+You have not selected any Web Project
+Members
+Missing reference
+My published pages:
+empty nav bar
+has not created any pages so far.
+Please provide a title
+Or
+Creation of page is only available in live
+Quit
+Select a category
+Select a content
+Select a file from the document manager
+Select a folder
+Select a page
+Selected:
+Show content picker
+Show file picker
+Show page picker
+Add archetype elements here
+System root folder:
+Tags
+Not Tagged Yet
+Guest user
+You have to set a target that allows files.
+Due for
+Duration
+Ended
+Execute
+History
+Document is locked.
+No workflow set for
+Open tasks
+Outcome
+Start
+Started
+Start workflow
+User
+View workflow status
+Last post
+# Login
+Login
+Invalid Password or Username
+Login
+Remember Me
+Connect
+Logout
+Metadata
+All Modules activation
+My Settings
+Add personal property
+Remove
+Remove personal properties
+Update
+Confirm password
+Email
+Disable email notification
+#**************** MySettings ******************
+Errors
+First name
+Name
+Value
+Last name
+Organization
+Password
+Preferred language
+My settings
+Personal property
+Remove properties
+Go to My Space
+Allowed Types
+Child nodes element
+Edit The Menu
+External Link
+List Element
+Multilevel menu element
+Internal Link
+Preview The Menu
+Query menu element
+Sub Menu Element
+Display Name :
+Static Text
+# Navigation menu labels
+Navigation menu
+Navigation link
+New Post
+Submit
+Please enter your registration information in order to request an account on this Jahia system.
+The user has been successfully created.
+User registration successful
+New User Registration
+User name
+No page set
+No Title
+Sincerely Yours
+Portal Team
+# Notifications: common
+Dear
+To unsubscribe from notifications for this content, please use the
+unsubscribe service
+To update your profile or to stop receiving customized e-mail, please click
+here
+# Notifications: commentAdded event
+a comment entry has been added on the following page:
+Comment added alert
+# Notifications: contentPublished event
+the content, you were subscribed to, has changed.
+Dear
+Content update alert
+Updated content
+Updated pages:
+# Notifications: default event
+an event {0} occurred on the following page:
+Notification alert
+# Notifications: subscription confirmation
+Cancel subscription
+If you do not want to receive update notifications on this content, please follow the link:
+Confirm subscription
+Please confirm your subscription by clicking the link below:
+you have been subscribed to be notified of changes in the portal content.
+you have been subscribed to be notified of changes in the following content:
+Your confirmation is needed
+Watched content
+# Notifications: subscription confirmation
+Confirm unsubscribe request
+Please confirm your request by clicking the following link:
+you have requested to stop notifications of changes in the portal content.
+you have requested to stop notifications of changes in the following content:
+Your confirmation is needed
+Watched content
+# Notifications: workflow
+Comment
+You can view the details by clicking on the link:
+Job report
+, has finished its execution.
+the workflow job, triggered by
+the workflow job, triggered  by you
+The content is now published.
+The content has not been approved for publishing and has been refused. Please make appropriate modifications.
+The content is now ready for validation/publishing. Please accept or refuse the changes.
+Workflow operation report
+JCR query
+Type
+Query
+Number of posts
+number of copies
+# OpenSearch
+content
+document repository
+Page properties
+Author
+Creation date
+Last modification date
+Last modifier
+Last publication date
+Last publisher
+# Page properties
+Page ID
+URL key
+Begin
+End
+Nb of items  per page
+Next
+Page {0} of {1} (about {2} results)
+Page {0} of {1} ({2} results)
+Page {0} of ... (more results)
+Previous
+parent
+Password
+Processing monitor
+no linked copies
+for the object id
+of type
+list of linked copies
+linked copies
+content
+posts
+Print
+Process
+Quick validation
+This will perform a workflow validation operation. You can enter your comment here. Would you like to continue?
+Registration date
+Reload the page
+Remember me
+Remember my login
+Reply
+Reply with quote
+Report post
+Reset
+# Rss
+Subscribe to the RSS feed
+Save
+Your search did not match any document
+# Selectors
+Select categories
+include subcategories
+Select file
+Select folder
+include subfolders
+include subnodes
+No Title
+Select page
+include subpages
+select
+Next
+Previous
+Parent
+Site settings
+Sitemap
+Creation date
+Server name
+Site ID
+Site key
+# Site properties
+Site name
+Set of templates
+# Subscriptions: button
+Unable to perform subscribe/unsubscribe operation.
+You have not provided an e-mail address. Please update your profile settings first.
+Would you like to be notified of changes in this content?
+Please provide a valid e-mail address.
+Thank you for subscribing to our Notification Service!
+An e-mail will be sent to your address for confirmation.
+Subscribe to be notified of changes for this content
+Would you like to stop notifications about changes in this content?
+Your unsubscription request was successful.
+Unsubscribe from being notified of changes for this content
+Subscription
+This subscription is already confirmed. Thank you for using our Notification Service.
+Unfortunately, the confirmation key does not match the one we have. Please repeat the subscription process to request a new confirmation key.
+Thank you for confirming your subscription to our Notification Service.
+Unfortunately, we are unable to find any subscription, matching your request.
+# Subscriptions: confirmation
+Subscription confirmation
+Comment added
+Content published
+include child pages
+# Subscriptions: toolbar
+Subscribe to the following events on the current page
+Unfortunately, the confirmation key does not match the one we have. Please repeat the unsubscription process to request a new confirmation key.
+Your unsubscribe request was successful. Thank you for using our Notification Service.
+Unsubscribe request confirmation
+You have been requested to stop notifications of changes in the portal content. An e-mail will be sent to your address for confirmation.
+Unsubscribe request
+# Language switching links
+Switch to
+Administration tools
+Browse Files
+Content
+What do you want to do with Jahia today?
+Document Folder
+Edit content
+Facets
+Manage content out of context
+Manage documents out of context
+My Content
+Access to out of context content and document management for each related websites, according to your rights.
+Go to my content
+My Pages
+My Profile
+My Settings
+Review your personal details. Choose what information should be public. Choose your preferred language.
+Change my settings
+My Tasks
+Display your tasks, assigned by other users or by the workflow processes.
+Go to my tasks
+My Web project shortcuts
+My Web Projects
+List of Web projects you can work on according to your rights, with links to the several modes.
+Go to my Web projects
+Profile Page Items
+Making public element
+Public profile
+Server administration
+Jahia Studio
+View content
+View Document
+Tags
+No tags to be displayed
+Timebased display
+threads
+Title
+# toolbar Advanced Compare Mode Settings
+Enable advanced compare mode settings
+Version 1
+Version2
+Date of preview
+Total number of Posts
+Total number of Threads
+Update
+User
+Username
+Author
+Language code
+Version date
+Version
+Workflow state
+Welcome
+Workflow display
+Workflow
