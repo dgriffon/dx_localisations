@@ -1,0 +1,107 @@
+Settings template with Bootstrap 3 Google Material Style
+Add members
+Copy group
+Create new group
+Edit group
+Edit membership
+Creation of group {0} failed.
+already exists.
+Please specify a group name
+Only characters (a..z, A..Z, 0..9, _, -, '{', '}') are valid.
+The group name should be unique within the site.
+Deletion of group {0} failed.
+You cannot remove that group.
+The first <strong>{0}</strong> are shown.
+<strong>{0}</strong> group(s) found.
+The first <strong>{0}</strong> are shown. Please use the search to limit the number of results.
+<strong>{0}</strong> group members found.
+Show all
+can be slow in case of many group members.
+New members
+Selected Properties
+Remove group
+The selected group will be permanently removed from the server.
+This will remove member {0} from the group.
+Remove members
+Selected members will be removed from the group.
+Please select members to be removed from the group.
+Back to edit group
+Back to roles
+HTML filtering
+Language
+Active (Edit)
+Active (Live)
+Default language
+Mandatory
+Groups
+Global groups
+Languages
+Modules
+Group ID
+Module ID
+Module Name
+Source
+Type
+Version
+Page models dashboard
+Model name
+Page name
+Page path
+Vanity URL dashboard
+WCAG compliance
+Add languages
+Allow to use unlisted languages
+Available languages
+If you set a mandatory language, all your internationalized live contents will not be available until you fill that language.
+Replace untranslated content with the default language content
+Site roles
+Do you want to revoke selected role?
+Users
+Template set
+Required dependent modules
+Create new user
+Errors while creating user. Please check the logs or ask an administrator to check the logs.
+The above user will be permanently removed from the server.
+All the data and files of the user will be also deleted.
+The user cannot be removed (read-only provider).
+Edit/View selected user properties
+Error while updating password
+Error while updating field {0}
+Password changed
+no changes if left blank
+User data updated successfully
+Disable e-mail notifications
+Please enter valid e-mail address.
+Please specify a password.
+Password confirmation does not match. Please try again.
+already exists
+already exists on site {0}
+Please specify a user name.
+only characters (a..z, A..Z, 0..9, _, -, ., @, '{', '}') are valid for the user name.
+Group list
+Membership list
+Password Update
+Preferred language
+Profile
+Selected properties
+Remove selected users
+Successfully removed {0}.
+Couldn't remove user {0}.
+<strong>{0}</strong> user(s) found.
+The first <strong>{0}</strong> users are shown. Please use the search to limit the number of results.
+No users found.
+<strong>{0}</strong> administrator user is not displayed.
+<strong>{0}</strong> administrator users are not displayed.
+Search results
+Please select at least one user.
+File format must include a header line with at minimum the columns j:nodename (username) and j:password. You can include any supported user properties as values. Example:<br/>j:nodename,j:password,j:firstName,j:lastName<br/>steven,steven1234,Steven,ACME
+Bulk create users
+Bulk delete Users
+You must specify a valid import file.
+The uploaded file is missing either <span style
+Could not create user <span style
+Skipping user <span style
+Skipping user <span style
+Toggle bulk delete mode
+Successfully created user <span style
+<strong>{0}</strong> users found. The first <strong>{1}</strong> are shown. Please use the search to limit the number of results.
